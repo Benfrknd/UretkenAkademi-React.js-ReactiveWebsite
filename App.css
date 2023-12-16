@@ -1,0 +1,31 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css');
+
+.bg-red{
+    background-color: red;
+}
+
+.header-bg-color{
+    background-color: wheat;
+}
+
+.card-color{
+    background-color:aquamarine;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    height: 15px;
+    padding: 10px; /* Opsiyonel: İçerikle arasına biraz boşluk eklemek için */
+    margin: 0; /* Sayfanın üstündeki boşluğu kaldırmak için */
+    text-align: center;
+  }
+  
+  .certificate{
+    background-color: #F9F9FF ;
+  }
+
+.sol{
+    
+    margin-left:auto;
+}
